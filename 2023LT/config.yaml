@@ -1,0 +1,17 @@
+---
+id: rubykaigi-2023-lt
+base_name: building-ruby-native-extension-using-ruby
+tags:
+  - rubykaigi
+  - lt
+presentation_date: 2023-05-11
+version: 1.0.0
+licenses:
+  - MIT
+author:
+  markup_language: :rd
+  name: katsyoshi
+  email: work@katsyoshi.org
+  rubygems_user: katsyoshi
+  slideshare_user: katsyoshi
+  speaker_deck_user: katsyoshi
