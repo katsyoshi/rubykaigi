@@ -9,9 +9,8 @@ version: 1.0.0
 licenses:
   - MIT
 author:
-  markup_language: :rd
+  markup_language: :markdown
   name: katsyoshi
   email: work@katsyoshi.org
   rubygems_user: katsyoshi
-  slideshare_user: katsyoshi
   speaker_deck_user: katsyoshi
