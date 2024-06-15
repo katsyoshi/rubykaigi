@@ -1,0 +1,23 @@
+---
+id: my-walk-in-rubykaigi
+base_name: my-walk-in-rubykaigi
+tags: []
+presentation_date:
+presentation_start_time:
+presentation_end_time:
+version: 1.0.0
+licenses: []
+slideshare_id:
+speaker_deck_id:
+vimeo_id:
+youtube_id:
+width: 1600
+height: 900
+source_code_uri:
+author:
+  markup_language: :markdown
+  name: katsyoshi
+  email:
+  rubygems_user: katsyohi
+  slideshare_user:
+  speaker_deck_user:
